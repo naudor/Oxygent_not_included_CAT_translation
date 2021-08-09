@@ -1,7 +1,7 @@
 # This file was generated from traduccio_oxygen_not_included_v2.xlsx
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-08-09 01:38+0200\n"
+"PO-Revision-Date: 2021-08-09 02:36+0200\n"
 "Language: ca\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,40 +19,35 @@ msgid "Uses: {0}"
 msgstr "Usos: {0}"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT_TOOLTIP"
 msgid "This building has been used {0} times"
 msgstr "Aquest edifici ha estat utilitzat {0} vegades"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.NAME"
 msgid "Access Restrictions"
 msgstr "Restriccions d'accés"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.ACTIVE.TOOLTIP"
 msgid "Some Duplicants are prohibited from passing through this door by the current <style=\"KKeyword\">Access Permissions</style>"
-msgstr "Alguns Duplicants tenen prohibit passar per aquesta porta pel corrent <style=\"KKeyword\"> Permisos d'accés </style>"
+msgstr "Alguns Duplicants tenen prohibit passar per aquesta porta pels actuals <style=\"KKeyword\"> Permisos d'accés </style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.NAME
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.NAME"
 msgid "Access Control Offline"
-msgstr "Controlar l'accés sense connexió"
+msgstr "Contro d'accés apagat"
 
 #. STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ACCESS_CONTROL.OFFLINE.TOOLTIP"
 msgid ""
 "This door has granted Emergency <style=\"KKeyword\">Access Permissions</style>\n"
 "------------------\n"
 "All Duplicants are permitted to pass through it until <style=\"KKeyword\">Power</style> is restored"
 msgstr ""
-"Aquesta porta ha concedit emergència <style=\"KKeyword\"> Permisos d'accés </style>\n"
+"Aquesta porta té <style=\"KKeyword\">Permisos d'accés</style> d'emergència\n"
 "------------------\n"
-"Tots Duplicants se'ls permet passar a través seu fins <style=\"KKeyword\"> energia </style> es restaura"
+"A tots Duplicants se'ls permet passar a través seu fins que l'<style=\"KKeyword\">energia</style> sigui restaurada"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NAME
 #, fuzzy
