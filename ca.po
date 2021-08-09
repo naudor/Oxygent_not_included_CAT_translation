@@ -1,7 +1,7 @@
 # This file was generated from traduccio_oxygen_not_included_v2.xlsx
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-08-09 12:50+0200\n"
+"PO-Revision-Date: 2021-08-09 22:31+0200\n"
 "Language: ca\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -58567,46 +58567,39 @@ msgid ""
 msgstr "El prevalance de <link=\"COURE\"> coure </link>, <link=\"GRES\"> Gres </link>, <link=\"IGNEOUSROCK\"> roca ígnia </link> i el seu <link=\"FERRO\" > Ferro </link> rica contrapart <link=\"MAFICROCK\"> máficos Roca </link>, fan d'aquest un bioma fructífera per explorar a la recerca de material de construcció. <link=\"sorra\"> Sand </link> és també aquí en abundància que és útil com un material de filtració. Mentre que la fauna no es troba en abundància en el Wasteland Bioma, el <link=\"DIVERGENTBEETLE\"> Sweetle </link> i <link=\"DIVERGENTWORM\"> Grubgrub </link> fan interessants criatures de domesticar ja que coexisteixen amb la <link=\"WORMPLANT\"> Grubfruit plantes </link> per a produir un aliment qualitat molt superior a la <link=\"WORMPLANT\"> Spindly Grubfruit Planta </ ​​link> que es troba a la natura. A més, el <link=\"SOFRE\"> Sofre </link> trobar aquí funciona tant com a aliment per als GrubGrubs i fertilitzants per a les plantes Grubfruit. L'abundància de <link=\"oxigen\"> Oxigen </link> que es troba en el Wasteland Bioma el converteix en una zona de baix risc per a enviar els meus Duplicants en recursos útils de cobrament a destinació per continuar amb els seus projectes de construcció."
 
 #. STRINGS.UI.ACTIONS
-#, fuzzy
 msgctxt "STRINGS.UI.ACTIONS"
 msgid "ACTIONS"
 msgstr "ACCIONS"
 
 #. STRINGS.UI.ALERTS
-#, fuzzy
 msgctxt "STRINGS.UI.ALERTS"
 msgid "ALERTS"
 msgstr "ALERTES"
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.AVAILABLE
-#, fuzzy
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.AVAILABLE"
 msgid "Available"
 msgstr "Disponible"
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.FIRST_FRAME_NO_DATA
-#, fuzzy
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.FIRST_FRAME_NO_DATA"
 msgid "..."
 msgstr "...."
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.NAME"
 msgid "Resource"
 msgstr "Recurs"
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.PIN_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.PIN_TOOLTIP"
 msgid "Check to pin resource to side panel"
-msgstr "Comproveu que els recursos pern a la barra lateral"
+msgstr "Marqueu per fixar el recurs al tauler lateral"
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.RESERVED
-#, fuzzy
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.RESERVED"
 msgid "Reserved"
-msgstr "Reservats"
+msgstr "Reservat"
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.RESOURCES
 #, fuzzy
@@ -58627,61 +58620,51 @@ msgid "Search"
 msgstr "Cerca"
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.SEARCH_PLACEHODLER
-#, fuzzy
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.SEARCH_PLACEHODLER"
 msgid "Enter text..."
-msgstr "Introduir text."
+msgstr "Introduir text..."
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.TOTAL
-#, fuzzy
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.TOTAL"
 msgid "Total"
 msgstr "Total"
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.UNPIN_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.UNPIN_TOOLTIP"
 msgid "Unpin resource"
-msgstr "Recursos desancorar"
+msgstr "Anul·la la fixació del recurs"
 
 #. STRINGS.UI.ASSIGNDUPLICANT
-#, fuzzy
 msgctxt "STRINGS.UI.ASSIGNDUPLICANT"
 msgid "Assign Duplicant"
 msgstr "Assignar Duplicant"
 
 #. STRINGS.UI.ASTEROIDCLOCK.CYCLE
-#, fuzzy
 msgctxt "STRINGS.UI.ASTEROIDCLOCK.CYCLE"
 msgid "Cycle"
 msgstr "Cicle"
 
 #. STRINGS.UI.ASTEROIDCLOCK.CYCLES_OLD
-#, fuzzy
 msgctxt "STRINGS.UI.ASTEROIDCLOCK.CYCLES_OLD"
 msgid "This Colony is {0} Cycle(s) Old"
-msgstr "Aquesta colònia és {0} Cicle (s) Antic"
+msgstr "Aquesta colònia és {0} Cicle(s) Antiga"
 
 #. STRINGS.UI.ASTEROIDCLOCK.SCHEDULE_BUTTON_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.ASTEROIDCLOCK.SCHEDULE_BUTTON_TOOLTIP"
 msgid "Manage Schedule"
-msgstr "Maneig de la Llista"
+msgstr "Gestiona la programació"
 
 #. STRINGS.UI.ASTEROIDCLOCK.TIME_PLAYED
-#, fuzzy
 msgctxt "STRINGS.UI.ASTEROIDCLOCK.TIME_PLAYED"
 msgid "Time Played: {0} hours"
 msgstr "Temps jugat: {0} hores"
 
 #. STRINGS.UI.ATTRIBUTELEVEL
-#, fuzzy
 msgctxt "STRINGS.UI.ATTRIBUTELEVEL"
 msgid "Expertise: Level {0} {1}"
 msgstr "Coneixements: Nivell {0} {1}"
 
 #. STRINGS.UI.ATTRIBUTELEVEL_SHORT
-#, fuzzy
 msgctxt "STRINGS.UI.ATTRIBUTELEVEL_SHORT"
 msgid "Level {0} {1}"
 msgstr "Nivell {0} {1}"
@@ -58693,178 +58676,150 @@ msgid "Base {0}"
 msgstr "Base {0}"
 
 #. STRINGS.UI.BUILD_REQUIRES_SKILL
-#, fuzzy
 msgctxt "STRINGS.UI.BUILD_REQUIRES_SKILL"
 msgid "Skill: {Skill}"
-msgstr "Habilitat: {} Habilitat"
+msgstr "Habilitat: {Skill}"
 
 #. STRINGS.UI.BUILD_REQUIRES_SKILL_TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILD_REQUIRES_SKILL_TOOLTIP"
 msgid "At least one Duplicant must have the {Skill} Skill to construct this building"
-msgstr "A l'mínim un Duplicant ha de tenir l'habilitat {} Habilitat per construir aquest edifici"
+msgstr "Almenys un Duplicant ha de tenir l'habilitat {Skill} per construir aquest edifici"
 
 #. STRINGS.UI.BUILDCATEGORIES.AUTOMATION.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.AUTOMATION.NAME"
 msgid "<link=\"BUILDCATEGORYAUTOMATION\">Automation</link>"
-msgstr "<link=\"BUILDCATEGORYAUTOMATION\"> Automatització </link>"
+msgstr "<link=\"BUILDCATEGORYAUTOMATION\">Automatització</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.AUTOMATION.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.AUTOMATION.TOOLTIP"
 msgid "Automate my base with a wide range of sensors. {Hotkey}"
-msgstr "Automatitzar la meva base amb una àmplia gamma de sensors. {} Tecla d'accés directe"
+msgstr "Automatitzar la meva base amb una àmplia gamma de sensors. {Hotkey}"
 
 #. STRINGS.UI.BUILDCATEGORIES.BASE.NAME
 #, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.BASE.NAME"
 msgid "<link=\"BUILDCATEGORYBASE\">Base</link>"
-msgstr "<link=\"BUILDCATEGORYBASE\"> Base </link>"
+msgstr "<link=\"BUILDCATEGORYBASE\">Base</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.BASE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.BASE.TOOLTIP"
 msgid "Maintain the colony's infrastructure with these homebase basics. {Hotkey}"
-msgstr "Mantenir la infraestructura de la colònia amb aquests fonaments Homebase. {} Tecla d'accés directe"
+msgstr "Mantenir la infraestructura de la colònia amb aquests fonaments. {Hotkey}"
 
 #. STRINGS.UI.BUILDCATEGORIES.CONVEYANCE.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.CONVEYANCE.NAME"
 msgid "<link=\"BUILDCATEGORYCONVEYANCE\">Shipping</link>"
-msgstr "<link=\"BUILDCATEGORYCONVEYANCE\"> tramesa </link>"
+msgstr "<link=\"BUILDCATEGORYCONVEYANCE\">Enviament</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.CONVEYANCE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.CONVEYANCE.TOOLTIP"
 msgid "Transport ore and solid materials around my base. {Hotkey}"
-msgstr "Mineral de transport i materials sòlids al voltant de la meva base. {} Tecla d'accés directe"
+msgstr "Transport de mineral i materials sòlids al voltant de la meva base. {Hotkey}"
 
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME"
 msgid "<link=\"BUILDCATEGORYEQUIPMENT\">Stations</link>"
-msgstr "<link=\"BUILDCATEGORYEQUIPMENT\"> Estacions </link>"
+msgstr "<link=\"BUILDCATEGORYEQUIPMENT\">Estacions</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP"
 msgid "Unlock new technologies through the power of science! {Hotkey}"
-msgstr "Desbloquejar noves tecnologies a través de el poder de la ciència! {} Tecla d'accés directe"
+msgstr "Desbloquejar noves tecnologies a través del poder de la ciència!{Hotkey}"
 
 #. STRINGS.UI.BUILDCATEGORIES.FOOD.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FOOD.NAME"
 msgid "<link=\"BUILDCATEGORYFOOD\">Food</link>"
-msgstr "<link=\"BUILDCATEGORYFOOD\"> Alimentació </link>"
+msgstr "<link=\"BUILDCATEGORYFOOD\">Alimentació</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.FOOD.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FOOD.TOOLTIP"
 msgid "Keep my Duplicants' spirits high and their bellies full. {Hotkey}"
-msgstr "Mantenir l'ànim meus Duplicants 'd'alçada i els seus estómacs plens. {} Tecla d'accés directe"
+msgstr "Mantenir l'ànim alt i els estómacs plens dels meus Duplicants. {Hotkey}"
 
 #. STRINGS.UI.BUILDCATEGORIES.FURNITURE.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FURNITURE.NAME"
 msgid "<link=\"BUILDCATEGORYFURNITURE\">Furniture</link>"
-msgstr "<link=\"BUILDCATEGORYFURNITURE\"> Mobles </link>"
+msgstr "<link=\"BUILDCATEGORYFURNITURE\">Mobles </link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.FURNITURE.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FURNITURE.TOOLTIP"
 msgid "Amenities to keep my Duplicants happy, comfy and efficient. {Hotkey}"
-msgstr "Serveis per a guardar el meu Duplicants feliç, còmoda i eficient. {} Tecla d'accés directe"
+msgstr "Serveis per a manternir els meus Duplicants feliços, còmodes i eficients. {Hotkey}"
 
 #. STRINGS.UI.BUILDCATEGORIES.HEP.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.HEP.NAME"
 msgid "<link=\"BUILDCATEGORYHEP\">Radiation</link>"
-msgstr "<link=\"BUILDCATEGORYHEP\"> radiació </link>"
+msgstr "<link=\"BUILDCATEGORYHEP\">Radiació</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.HEP.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.HEP.TOOLTIP"
 msgid "Here's where things get rad. {Hotkey}"
-msgstr "Aquí és on les coses es posen rad. {} Tecla d'accés directe"
+msgstr "Aquí és on les coses es posen radiants. {Hotkey}"
 
 #. STRINGS.UI.BUILDCATEGORIES.HVAC.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.HVAC.NAME"
 msgid "<link=\"BUILDCATEGORYHVAC\">Ventilation</link>"
-msgstr "<link=\"BUILDCATEGORYHVAC\"> Ventilació </link>"
+msgstr "<link=\"BUILDCATEGORYHVAC\">Ventilació</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.HVAC.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.HVAC.TOOLTIP"
 msgid "Control the flow of gas in the base. {Hotkey}"
-msgstr "Controlar el flux de gas a la base. {} Tecla d'accés directe"
+msgstr "Controlar el flux de gas a la base. {Hotkey}"
 
 #. STRINGS.UI.BUILDCATEGORIES.MEDICAL.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MEDICAL.NAME"
 msgid "<link=\"BUILDCATEGORYMEDICAL\">Medicine</link>"
-msgstr "<link=\"BUILDCATEGORYMEDICAL\"> Medicina </link>"
+msgstr "<link=\"BUILDCATEGORYMEDICAL\">Medicina</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.MEDICAL.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MEDICAL.TOOLTIP"
 msgid "A cure for everything but the common cold. {Hotkey}"
-msgstr "Una cura per a tot, però el refredat comú. {} Tecla d'accés directe"
+msgstr "Una cura per a tot, mneys el refredat comú. {Hotkey}"
 
 #. STRINGS.UI.BUILDCATEGORIES.MISC.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MISC.NAME"
 msgid "<link=\"BUILDCATEGORYMISC\">Decor</link>"
-msgstr "<link=\"BUILDCATEGORYMISC\"> Decoració </link>"
+msgstr "<link=\"BUILDCATEGORYMISC\">Decoració</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.MISC.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MISC.TOOLTIP"
 msgid "Spruce up my colony with some lovely interior decorating. {Hotkey}"
-msgstr "Arreglar el meu colònia amb una mica de preciosa decoració d'interiors. {} Tecla d'accés directe"
+msgstr "Arreglar la meva colònia amb una mica de preciosa decoració d'interiors. {Hotkey}"
 
 #. STRINGS.UI.BUILDCATEGORIES.OXYGEN.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.OXYGEN.NAME"
 msgid "<link=\"BUILDCATEGORYOXYGEN\">Oxygen</link>"
-msgstr "<link=\"BUILDCATEGORYOXYGEN\"> Oxygen </link>"
+msgstr "<link=\"BUILDCATEGORYOXYGEN\">Oxigen</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.OXYGEN.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.OXYGEN.TOOLTIP"
 msgid "Everything I need to keep the colony breathing. {Hotkey}"
-msgstr "Tot el que necessita per mantenir la respiració colònia. {} Tecla d'accés directe"
+msgstr "Tot el que necessites per mantenir la respiració de la colònia. {Hotkey}"
 
 #. STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME"
 msgid "<link=\"BUILDCATEGORYPLUMBING\">Plumbing</link>"
-msgstr "<link=\"BUILDCATEGORYPLUMBING\"> Fontaneria </link>"
+msgstr "<link=\"BUILDCATEGORYPLUMBING\">Fontaneria</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP"
 msgid "Get the colony's water running and its sewage flowing. {Hotkey}"
-msgstr "Obtenir aigua de la colònia en execució i les seves aigües residuals que flueix. {} Tecla d'accés directe"
+msgstr "Feu que l’aigua de la colònia funcioni i les aigües residuals flueixin. {Hotkey}"
 
 #. STRINGS.UI.BUILDCATEGORIES.POWER.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.POWER.NAME"
 msgid "<link=\"BUILDCATEGORYPOWER\">Power</link>"
-msgstr "<link=\"BUILDCATEGORYPOWER\"> energia </link>"
+msgstr "<link=\"BUILDCATEGORYPOWER\">Energia</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.POWER.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.POWER.TOOLTIP"
 msgid "Need to power the colony? Here's how to do it! {Hotkey}"
-msgstr "Necessitat de potència de la colònia? Heus aquí com fer-ho! {} Tecla d'accés directe"
+msgstr "Necesites potencia en la colonia? Heus aquí com fer-ho! {Hotkey}"
 
 #. STRINGS.UI.BUILDCATEGORIES.REFINING.NAME
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDCATEGORIES.REFINING.NAME"
 msgid "<link=\"BUILDCATEGORYREFINING\">Refinement</link>"
-msgstr "<link=\"BUILDCATEGORYREFINING\"> Refinament </link>"
+msgstr "<link=\"BUILDCATEGORYREFINING\">Refinament</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.REFINING.TOOLTIP
 #, fuzzy
