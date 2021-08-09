@@ -1,7 +1,7 @@
 # This file was generated from traduccio_oxygen_not_included_v2.xlsx
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-08-09 02:36+0200\n"
+"PO-Revision-Date: 2021-08-09 12:50+0200\n"
 "Language: ca\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -86564,13 +86564,12 @@ msgid "Tiny Twin Asteroid FOR DEVS"
 msgstr "Doble petita asteroide durant DEVS"
 
 #. STRINGS.WORLDS.VANILLAFORESTDEFAULT.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLAFORESTDEFAULT.DESCRIPTION"
 msgid ""
 "A lush location rich in wildlife and life-sustaining resources.\n"
 "\n"
 "<smallcaps>Establishing a foothold on Verdante will be challenging due to reduced food and oxygen options. However, abundant biological and mineral resources should afford excellent long-term growth.</smallcaps>"
-msgstr "Una zona verda, ric en fauna i els recursos per mantenir la vida. <Smallcaps> L'establiment d'un punt de suport en Verdante serà un repte a causa de les reduïdes opcions de menjar i oxigen. No obstant això, l'abundància de recursos biològics i minerals han de pagar un excel·lent creixement a llarg termini. </ Smallcaps>"
+msgstr "Una zona verda, rica en fauna i els recursos per mantenir la vida. <Smallcaps> L'establiment d'un punt de suport en Verdante serà un repte a causa de les reduïdes opcions de menjar i oxigen. No obstant això, l'abundància de recursos biològics i minerals hauria de permetre un excel·lent creixement a llarg termini. </ Smallcaps>"
 
 #. STRINGS.WORLDS.VANILLAFORESTDEFAULT.NAME
 #, fuzzy
@@ -86579,13 +86578,12 @@ msgid "Verdante"
 msgstr "Verdante"
 
 #. STRINGS.WORLDS.VANILLASANDSTONEDEFAULT.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLASANDSTONEDEFAULT.DESCRIPTION"
 msgid ""
 "A promising location with a balanced variety of resources.\n"
 "\n"
 "<smallcaps>Terra meets all the requirements for Duplicant life and holds no surprises. It's an ideal location for a first attempt at establishing a colony.</smallcaps>"
-msgstr "Un lloc prometedor amb una varietat equilibrada dels recursos. <Smallcaps> Terra compleix amb tots els requeriments per a la vida Duplicant i manté sense sorpreses. És un lloc ideal per a un primer intent d'establir una colònia. </ Smallcaps>"
+msgstr "Un lloc prometedor amb una varietat equilibrada de recursos. <Smallcaps> Terra compleix amb tots els requeriments per a la vida Duplicant i no guarda sorpreses. És un lloc ideal per a un primer intent d'establir una colònia. </ Smallcaps>"
 
 #. STRINGS.WORLDS.VANILLASANDSTONEDEFAULT.NAME
 #, fuzzy
@@ -86645,13 +86643,12 @@ msgid ""
 "A small, water-submerged world.\n"
 "\n"
 "<smallcaps>Water Asteroids possess a variety of liquid resources and are a natural source of Graphite, but Duplicants should come prepared for a swim.</smallcaps>"
-msgstr "Un món petit, submergida en aigua. <Smallcaps> Asteroides aigua posseeixen una varietat de recursos líquids i són una font natural de grafit, però Duplicants han de venir preparats a nedar. </ Smallcaps>"
+msgstr "Un món petit, submergit en aigua. <Smallcaps> Asteroides aigua posseeixen una varietat de recursos líquids i són una font natural de grafit, però Duplicants han de venir preparats a nedar. </ Smallcaps>"
 
 #. STRINGS.WORLDS.WATERMOONLET.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.WATERMOONLET.NAME"
 msgid "Water Asteroid"
-msgstr "L'asteroide aigua"
+msgstr "Asteroide d'Aigua"
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPORTALPAD.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPORTALPAD.LOGIC_PORT_ACTIVE"
