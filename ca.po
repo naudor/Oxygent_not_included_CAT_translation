@@ -1,7 +1,7 @@
 # This file was generated from traduccio_oxygen_not_included_v2.xlsx
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-08-12 12:07+0200\n"
+"PO-Revision-Date: 2021-08-13 11:41+0200\n"
 "Language: ca\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -744,10 +744,9 @@ msgid "Set"
 msgstr "Conjunt"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.READY.TOOLTIP
-#, fuzzy
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.READY.TOOLTIP"
 msgid "This trap has been set and is ready to catch a<style=\"KKeyword\">Critter</style>"
-msgstr "Aquesta trampa s'ha establert i està llest per agafar un<style=\"KKeyword\">Critter</style>"
+msgstr "Aquesta trampa s'ha establert i està llest per agafar una<style=\"KKeyword\">Bestiola</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.SPRUNG.NAME
 #, fuzzy
@@ -58973,190 +58972,159 @@ msgid "Runspeed: {0}"
 msgstr "Velocitat: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMED
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMED"
 msgid " {0}: {1}"
 msgstr " {0}: {1}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMEDPERUSE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMEDPERUSE"
 msgid " {0}: {1} per use"
 msgstr " {0}: {1} per ús"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTED_ENTITYTEMP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTED_ENTITYTEMP"
 msgid " {0}: {1}"
 msgstr " {0}: {1}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTED_FIXEDTEMP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTED_FIXEDTEMP"
 msgid " {0}: {1}"
 msgstr " {0}: {1}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTED_INPUTTEMP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTED_INPUTTEMP"
 msgid " {0}: {1}"
 msgstr " {0}: {1}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTED_MINORENTITYTEMP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTED_MINORENTITYTEMP"
 msgid " {0}: {1}"
 msgstr " {0}: {1}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTED_MINTEMP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTED_MINTEMP"
 msgid " {0}: {1}"
 msgstr " {0}: {1}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTED_TOILET
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTED_TOILET"
 msgid " {0}: {1} per use"
 msgstr " {0}: {1} per ús"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTEDPERUSE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTEDPERUSE"
 msgid " {0}: {1} per use"
 msgstr " {0}: {1} per ús"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ENABLESDOMESTICGROWTH
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ENABLESDOMESTICGROWTH"
 msgid "Enables<link=\"PLANTS\">Plant Domestication</link>"
-msgstr "Permet<link=\"plantes\">Plant domesticació</link>"
+msgstr "Permet<link=\"PLANTS\">Planta de domesticació</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ENERGYCONSUMED
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ENERGYCONSUMED"
 msgid "<link=\"POWER\">Power</link>consumed: {0}"
 msgstr "<link=\"POWER\">energia</link>consumida: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ENERGYGENERATED
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ENERGYGENERATED"
 msgid "<link=\"POWER\">Power</link>: + {0}"
-msgstr "<link=\"POWER\">energia</link>: + {0}"
+msgstr "<link=\"POWER\">Energia</link>: + {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.FABRICATEDITEM
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.FABRICATEDITEM"
 msgid " {1}"
 msgstr " {1}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.FABRICATES
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.FABRICATES"
 msgid "Fabricates"
 msgstr "Fabrica"
 
 #. STRINGS.UI.BUILDINGEFFECTS.GASCOOLING
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GASCOOLING"
 msgid "<link=\"HEAT\">Cooling factor</link>: {0}"
-msgstr "<link=\"CALOR\">factor de refrigeració</link>: {0}"
+msgstr "<link=\"HEAT\">Factor de refrigeració</link>: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.GEYSER_DISEASE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GEYSER_DISEASE"
 msgid "Germs: {0}"
-msgstr "GERMERS: {0}"
+msgstr "Germens: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.GEYSER_PERIOD
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GEYSER_PERIOD"
 msgid "Eruption Period: {0} every {1}"
 msgstr "Període erupció: {0} {1} cada"
 
 #. STRINGS.UI.BUILDINGEFFECTS.GEYSER_PRODUCTION
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GEYSER_PRODUCTION"
 msgid " {0}: {1} at {2}"
 msgstr " {0}: {1} a les {2}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.GEYSER_YEAR_NEXT_ACTIVE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GEYSER_YEAR_NEXT_ACTIVE"
 msgid "Next Activity: {0}"
 msgstr "Activitat següent: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.GEYSER_YEAR_NEXT_DORMANT
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GEYSER_YEAR_NEXT_DORMANT"
 msgid "Next Dormancy: {0}"
-msgstr "Següent Letargia: {0}"
+msgstr "Següent inactividad: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.GEYSER_YEAR_PERIOD
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GEYSER_YEAR_PERIOD"
 msgid "Active Period: {0} every {1}"
-msgstr "Període actiu: {0} {1} cada"
+msgstr "Període actiu: {0} cada {1}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.GEYSER_YEAR_UNSTUDIED
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GEYSER_YEAR_UNSTUDIED"
 msgid "Active Period: (Requires Analysis)"
 msgstr "Període actiu: (Requereix Anàlisi)"
 
 #. STRINGS.UI.BUILDINGEFFECTS.HEATCONSUMED
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.HEATCONSUMED"
 msgid "<link=\"HEAT\">Heat</link>: - {0}/s"
-msgstr "<link=\"CALOR\">Heat</link>: - {0} / s"
+msgstr "<link=\"HEAT\">Calor</link>: - {0} / s"
 
 #. STRINGS.UI.BUILDINGEFFECTS.HEATER_TARGETTEMPERATURE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.HEATER_TARGETTEMPERATURE"
 msgid "Target<link=\"HEAT\">Temperature</link>: {0}"
-msgstr "Target<link=\"HEAT\">Temperatura</link>: {0}"
+msgstr "Objectiu de<link=\"HEAT\">Temperatura</link>: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.HEATGENERATED
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.HEATGENERATED"
 msgid "<link=\"HEAT\">Heat</link>: + {0}/s"
-msgstr "<link=\"CALOR\">Heat</link>: + {0} / s"
+msgstr "<link=\"HEAT\">Calor</link>: + {0} / s"
 
 #. STRINGS.UI.BUILDINGEFFECTS.HEATGENERATED_AIRCONDITIONER
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.HEATGENERATED_AIRCONDITIONER"
 msgid "<link=\"HEAT\">Heat</link>: + {0} (Approximate Value)"
-msgstr "<link=\"CALOR\">Heat</link>: + {0} (Valor Aproximat)"
+msgstr "<link=\"HEAT\">Calor</link>: + {0} (Valor Aproximat)"
 
 #. STRINGS.UI.BUILDINGEFFECTS.HEATGENERATED_LIQUIDCONDITIONER
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.HEATGENERATED_LIQUIDCONDITIONER"
 msgid "<link=\"HEAT\">Heat</link>: + {0} (Approximate Value)"
-msgstr "<link=\"CALOR\">Heat</link>: + {0} (Valor Aproximat)"
+msgstr "<link=\"HEAT\">Calor</link>: + {0} (Valor Aproximat)"
 
 #. STRINGS.UI.BUILDINGEFFECTS.HIT_POINTS_PER_CYCLE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.HIT_POINTS_PER_CYCLE"
 msgid "<link=\"HEALTH\">Health</link>per cycle: {0}"
-msgstr "<link=\"salut\">Salut</link>per cicle: {0}"
+msgstr "<link=\"HEALTH\">Salut</link>per cicle: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.IMPROVED_BUILDINGS
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.IMPROVED_BUILDINGS"
 msgid "Improved Buildings"
-msgstr "Edificis millorades"
+msgstr "Edificis millorats"
 
 #. STRINGS.UI.BUILDINGEFFECTS.IMPROVED_BUILDINGS_ITEM
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.IMPROVED_BUILDINGS_ITEM"
 msgid " {0}"
 msgstr " {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.IN_ORBIT_REQUIRED
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.IN_ORBIT_REQUIRED"
 msgid "Active In Space"
-msgstr "En Active Space"
+msgstr "Actiu al espai"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ITEM_TEMPERATURE_ADJUST
 #, fuzzy
@@ -59165,67 +59133,56 @@ msgid "Stored<link=\"HEAT\">Temperature</link>: {0}"
 msgstr "Emmagatzemats<link=\"HEAT\">Temperatura</link>: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.KCAL_PER_CYCLE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.KCAL_PER_CYCLE"
 msgid "<link=\"FOOD\">KCal</link>per cycle: {0}"
-msgstr "<link=\"aliment\">KCal</link>per cicle: {0}"
+msgstr "<link=\"FOOD\">KCal</link>per cicle: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.LIQUIDCOOLING
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.LIQUIDCOOLING"
 msgid "<link=\"HEAT\">Cooling factor</link>: {0}"
-msgstr "<link=\"CALOR\">factor de refrigeració</link>: {0}"
+msgstr "<link=\"HEAT\">Factor de refrigeració</link>: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.MAX_BITS
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.MAX_BITS"
 msgid "<link=\"LOGIC\">Bit</link>Depth: {0}"
-msgstr "<link=\"lògica\">Bit</link>Profunditat: {0}"
+msgstr "<link=\"LOGIC\">Bit</link>Profunditat: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.MAX_WATTAGE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.MAX_WATTAGE"
 msgid "Max<link=\"POWER\">Power</link>: {0}"
 msgstr "Max<link=\"POWER\">energia</link>: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.MESS_TABLE_SALT
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.MESS_TABLE_SALT"
 msgid "Table Salt: + {0}"
 msgstr "Sal de taula: + {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.MINIMUM_TEMP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.MINIMUM_TEMP"
 msgid "Freeze<link=\"HEAT\">Temperature</link>: {0}"
-msgstr "Freeze<link=\"HEAT\">Temperatura</link>: {0}"
+msgstr "Congelar<link=\"HEAT\">Temperatura</link>: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.NOISE_CREATED
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.NOISE_CREATED"
 msgid "<link=\"SOUND\">Noise</link>: {0} dB (Radius: {1} tiles)"
-msgstr "<link=\"SOUND\">Soroll</link>: {0} dB (Radius: {1} rajoles)"
+msgstr "<link=\"SOUND\">Soroll</link>: {0} dB (Radi: {1} rajoles)"
 
 #. STRINGS.UI.BUILDINGEFFECTS.OPERATIONEFFECTS
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.OPERATIONEFFECTS"
 msgid "<b>Effects:</b>"
 msgstr "<B>Efectes:</b>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.OPERATIONREQUIREMENTS
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.OPERATIONREQUIREMENTS"
 msgid "<b>Requirements:</b>"
 msgstr "<B>Requisits:</b>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.OVER_PRESSURE_MASS
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.OVER_PRESSURE_MASS"
 msgid "Overpressure: {0}"
 msgstr "Sobrepressió: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.OVERHEAT_TEMP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.OVERHEAT_TEMP"
 msgid "Overheat<link=\"HEAT\">Temperature</link>: {0}"
 msgstr "Sobreescalfament<link=\"HEAT\">Temperatura</link>: {0}"
@@ -59249,157 +59206,131 @@ msgid "Planter box penalty"
 msgstr "Pena de test"
 
 #. STRINGS.UI.BUILDINGEFFECTS.PREFERS_ROOM
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.PREFERS_ROOM"
 msgid "Preferred Room: {0}"
 msgstr "Habitació preferida: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.PROCESSEDITEM
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.PROCESSEDITEM"
 msgid " {1} {0}"
 msgstr " {1} {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.PROCESSES
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.PROCESSES"
 msgid "Refines:"
 msgstr "Refina:"
 
 #. STRINGS.UI.BUILDINGEFFECTS.PRODUCES_RESEARCH_POINTS
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.PRODUCES_RESEARCH_POINTS"
 msgid " {0}"
 msgstr " {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.RECREATION
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.RECREATION"
 msgid "Recreation"
 msgstr "Recreació"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REFILLOXYGENTANK
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REFILLOXYGENTANK"
 msgid "Refills Exosuit<link=\"OXYGENTANK\">Oxygen Tank</link>"
-msgstr "Recàrregues Exosuit<link=\"OXYGENTANK\">tanc d'oxigen</link>"
+msgstr "Recàrregues del <link=\"OXYGENTANK\">tanc d'oxigen</link> de l'exotraje"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REFINEMENT_ENERGY
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REFINEMENT_ENERGY"
 msgid "Heat: {0}"
 msgstr "Calor: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REMOVEDEFFECT
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REMOVEDEFFECT"
 msgid " {0}"
 msgstr " {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REMOVES_DISEASE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REMOVES_DISEASE"
 msgid "Kills germs"
 msgstr "Mata els gèrmens"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REMOVESEFFECTSUBTITLE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REMOVESEFFECTSUBTITLE"
 msgid "Cures"
 msgstr "Cures"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESCREATIVITY
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESCREATIVITY"
 msgid "Duplicant<link=\"ARTIST\">Creativity</link>"
-msgstr "Duplicant<link=\"ARTISTA\">creativitat</link>"
+msgstr "Duplicant<link=\"ARTIST\">creativitat</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESELEMENT
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESELEMENT"
 msgid "Supply of {0}"
 msgstr "Subministrament de {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASINPUT
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASINPUT"
 msgid "<link=\"GASPIPING\">Gas Intake Pipe</link>"
-msgstr "<link=\"GASPIPING\">presa de gas Canonada</link>"
+msgstr "<link=\"GASPIPING\">Canonada de entrada de gas</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUT
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUT"
 msgid "<link=\"GASPIPING\">Gas Output Pipe</link>"
-msgstr "<link=\"GASPIPING\">Sortida Canonada de gas</link>"
+msgstr "<link=\"GASPIPING\">Canonada de sortida de gas</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUTS
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUTS"
 msgid "Two<link=\"GASPIPING\">Gas Output Pipes</link>"
-msgstr "Dues<link=\"GASPIPING\">Gas Tubs de sortida</link>"
+msgstr "Dues<link=\"GASPIPING\">canonades de sortida de gas</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDINPUT
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDINPUT"
 msgid "<link=\"LIQUIDPIPING\">Liquid Intake Pipe</link>"
-msgstr "<link=\"LIQUIDPIPING\">Intake Liquid Pipe</link>"
+msgstr "<link=\"LIQUIDPIPING\">Canonada d'entrada de liquid</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUT
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUT"
 msgid "<link=\"LIQUIDPIPING\">Liquid Output Pipe</link>"
-msgstr "<link=\"LIQUIDPIPING\">Sortida Liquid Pipe</link>"
+msgstr "<link=\"LIQUIDPIPING\">Canonada de sortida de liquid</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUTS
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUTS"
 msgid "Two<link=\"LIQUIDPIPING\">Liquid Output Pipes</link>"
-msgstr "Dues<link=\"LIQUIDPIPING\">Tubs de sortida d'un líquid</link>"
+msgstr "Dos<link=\"LIQUIDPIPING\">Canonades de sortida de líquid</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESMANUALOPERATION
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESMANUALOPERATION"
 msgid "Duplicant operation"
-msgstr "Operació Duplicant"
+msgstr "Operació del Duplicant"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWER
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWER"
 msgid "<link=\"POWER\">Power</link>: {0}"
 msgstr "<link=\"POWER\">energia</link>: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWERGENERATOR
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWERGENERATOR"
 msgid "<link=\"POWER\">Power</link>generator"
-msgstr "<link=\"POWER\">energia</link>generador"
+msgstr "Generador d'<link=\"POWER\">energia</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESROOM
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESROOM"
 msgid "Dedicated Room: {0}"
 msgstr "Sala dedicada: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESSEED
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESSEED"
 msgid "1 Unplanted<link=\"PLANTS\">Seed</link>"
-msgstr "1 sense Plantes<link=\"plantes\">Seed</link>"
+msgstr "1 <link=\"PLANTS\">llavor</link> sense plantar"
 
 #. STRINGS.UI.BUILDINGEFFECTS.RESEARCH_MATERIALS
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.RESEARCH_MATERIALS"
 msgid " {0}: {1} per<link=\"RESEARCH\">Research</link>point"
-msgstr " {0}: {1} per<link=\"investigació\">Investigació</link>punt"
+msgstr " {0}: {1} per<link=\"RESEARCH\">Punt d'investigació</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ROCKETRESTRICTION_BUILDINGS
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ROCKETRESTRICTION_BUILDINGS"
 msgid "• Buildings: {buildinglist}"
-msgstr "• Edificis: {} buildinglist"
+msgstr "• Edificis: {buildinglist}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ROCKETRESTRICTION_HEADER
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ROCKETRESTRICTION_HEADER"
 msgid "Restriction Control:"
 msgstr "Control de Restricció:"
@@ -59408,7 +59339,7 @@ msgstr "Control de Restricció:"
 #, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.SCALE_GROWTH"
 msgid "Shearable {Item}: {Amount} per {Time}"
-msgstr "Susceptible de ser tallada {Article}: {Quantitat} per {Temps}"
+msgstr "Susceptible de ser tallada {Item}: {Amount} per {Time}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.SCALE_GROWTH_ATMO
 #, fuzzy
@@ -59417,31 +59348,26 @@ msgid "Shearable {Item}: {Amount} per {Time} ( {Atmosphere})"
 msgstr "Susceptible de ser tallada {Article}: {Quantitat} per {Temps} ( {} Ambient)"
 
 #. STRINGS.UI.BUILDINGEFFECTS.STORAGECAPACITY
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.STORAGECAPACITY"
 msgid "Storage capacity: {0}"
 msgstr "Capacitat d'emmagatzematge: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.STRESSREDUCEDPERMINUTE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.STRESSREDUCEDPERMINUTE"
 msgid "<link=\"STRESS\">Stress</link>: {0} per minute"
-msgstr "<link=\"estrès\">Estrès</link>: {0} per minut"
+msgstr "<link=\"STRESS\">Estrès</link>: {0} per minut"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ACCESS_CONTROL
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ACCESS_CONTROL"
 msgid "Settings to allow or restrict Duplicants from passing through the door."
-msgstr "Configuració per permetre o restringir Duplicants passi a través de la porta."
+msgstr "Configuració per permetre o restringir que els Duplicants passin a través de la porta."
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ACTIVE_PARTICLE_CONSUMPTION
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ACTIVE_PARTICLE_CONSUMPTION"
 msgid "This building requires<style=\"KKeyword\">Radbolts</style>to function, consuming them at a rate of {Rate} while in use"
-msgstr "Aquest edifici requereix<style=\"KKeyword\">Radbolts</style>a la funció, el consum d'ells a una velocitat de Taxa {} mentre està en ús"
+msgstr "Aquest edifici requereix<style=\"KKeyword\">Radbolts</style>per funciona, el consumint-los a una velocitat de {Rate} mentre està en ús"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ADDED_EFFECT
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ADDED_EFFECT"
 msgid ""
 "Effect being applied:\n"
@@ -59449,61 +59375,53 @@ msgid ""
 " {0}\n"
 " {1}"
 msgstr ""
-"Efecte ser aplicat:\n"
+"Efecte aplicat:\n"
 "\n"
 " {0}\n"
 " {1}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ALLOWS_FERTILIZER
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ALLOWS_FERTILIZER"
 msgid "Allows<style=\"KKeyword\">Fertilizer</style>to be delivered to plants"
 msgstr "Permet<style=\"KKeyword\">Fertilitzants</style>per ser lliurat a plantes"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ALLOWS_IRRIGATION
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ALLOWS_IRRIGATION"
 msgid "Allows<style=\"KKeyword\">Liquid</style>to be delivered to plants"
-msgstr "Permet<style=\"KKeyword\">Liquid</style>per ser lliurat a plantes"
+msgstr "Permet fer arribar<style=\"KKeyword\">Liquid</style> a plantes"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ALLOWS_IRRIGATION_PIPE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ALLOWS_IRRIGATION_PIPE"
 msgid "Allows irrigation<style=\"KKeyword\">Pipe</style>connection"
-msgstr "Permet el reg<style=\"KKeyword\">Pipe</style>Connexió"
+msgstr "Permet la connexió de <style=\"KKeyword\">canonades</style> de reg"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ASSIGNEDDUPLICANT
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ASSIGNEDDUPLICANT"
 msgid "This amenity may only be used by the Duplicant it is assigned to"
-msgstr "Que aquest servei només pot ser utilitzat pel Duplicant s'assigna a"
+msgstr "Que aquest servei només pot ser utilitzat pel Duplicant s'assignat a"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.BATTERYCAPACITY
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.BATTERYCAPACITY"
 msgid "Can hold<b> {0}</b>of<style=\"KKeyword\">Power</style>when connected to a<style=\"KKeyword\">Generator</style>"
-msgstr "Pot contenir<b> {0}</b>de<style=\"KKeyword\">energia</style>quan es connecta a un<style=\"KKeyword\">Generador</style>"
+msgstr "Pot emmagatzemar<b> {0}</b>de<style=\"KKeyword\">energia</style>quan es connecta a un<style=\"KKeyword\">Generador</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.BATTERYLEAK
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.BATTERYLEAK"
 msgid "<style=\"consumed\"> {0}</style>of this battery's charge will be lost as<style=\"KKeyword\">Heat</style>"
-msgstr "<style=\"consumit\"> {0}</style>del càrrec d'aquesta bateria es perdrà com<style=\"keyword\">calor</style>"
+msgstr "<style=\"consumed\"> {0}</style>de la càrrega d'aquesta bateria es perdrà com<style=\"keyword\">calor</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_LURE
 #, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_LURE"
 msgid "This critter can be moved using an<link=\"AIRBORNECREATURELURE\">Airborne Critter Lure</link>"
-msgstr "Aquest critter es pot moure usant un<link=\"AIRBORNECREATURELURE\">Airborne Critter Lure</link>"
+msgstr "Aquesta bestiola es pot moure usant un<link=\"AIRBORNECREATURELURE\">Airborne Critter Lure</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_TRAP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_TRAP"
 msgid "This critter can be captured using a<link=\"CREATURETRAP\">Critter Trap</link>"
-msgstr "Aquest critter pot ser capturat servir un<link=\"CREATURETRAP\">Critter Trampa</link>"
+msgstr "Aquesta bestiola pot ser capturat fent servir una<link=\"CREATURETRAP\"> una trampa de bestioles</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_WRANGLE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_WRANGLE"
 msgid ""
 "This critter can be captured\n"
@@ -59512,14 +59430,13 @@ msgid ""
 "\n"
 "Duplicants must possess the<style=\"KKeyword\">Critter Ranching</style>Skill in order to wrangle critters"
 msgstr ""
-"Aquest critter pot ser capturat\n"
+"Aquesta bestiola pot ser capturat\n"
 "------------------\n"
-"bestioles Marcar per a la captura utilitzant el<b>Wrangle Tool</b><b><color=#F44A4A>[N]</b></ Color>\n"
+"Marcar per a la captura utilitzant el<b>Wrangle Tool</b><b><color=#F44A4A>[N]</b></ Color>\n"
 "\n"
-"Duplicants han de tenir la<style=\"KKeyword\">Critter Ranching</style>Habilitat per tal de bestioles Wrangle"
+"Duplicants han de tenir la habilitat de <style=\"KKeyword\">Cria de Critter</style> per tal de lluitar contra bestioles"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.COOLANT
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.COOLANT"
 msgid ""
 "<b> {1}</b>of<style=\"KKeyword\"> {0}</style>coolant is required to cool off an item produced by this building\n"
@@ -59528,22 +59445,19 @@ msgid ""
 msgstr ""
 "<B> {1}</b>de<style=\"KKeyword\"> {0}</style>es requereix refrigerant per refredar un article produït per aquest edifici\n"
 "------------------\n"
-"Refrigerant<style=\"KKeyword\">Temperatura</style>augment és variable i dictat per la quantitat d'energia necessària per refredar l'article produït"
+"La <style=\"KKeyword\">temperatura</style> que augmenta el Refrigerant es variable i fixat per la quantitat d'energia necessària per refredar l'article produït"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED"
 msgid "Decreases<style=\"KKeyword\">Decor</style>values by<b><b> {0}</b></b>in a<b> {1}</b>tile radius"
-msgstr "Disminucions<style=\"KKeyword\">Decor</style>valors per<b><b> {0}</b></b>en un<b> {1}</b>ràdio rajola"
+msgstr "Disminueix els valors de <style=\"KKeyword\">Decoració</style> en b><b> {0}</b></b>en un radi de <b> {1}</b>rajoles"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED"
 msgid "Improves<style=\"KKeyword\">Decor</style>values by<b><b> {0}</b></b>in a<b> {1}</b>tile radius"
-msgstr "Millora<style=\"KKeyword\">Decor</style>valors per<b><b> {0}</b></b>en un<b> {1}</b>ràdio rajola"
+msgstr "Millora el valor de<style=\"KKeyword\">Decoració</style>en<b><b> {0}</b></b>en un radi de <b> {1}</b> rajola"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DIET_CONSUMED
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DIET_CONSUMED"
 msgid ""
 "This critter can typically consume these materials at the following rates:\n"
@@ -59552,43 +59466,38 @@ msgid ""
 msgstr ""
 "Aquest bitxo normalment pot consumir aquests materials en les següents taxes:\n"
 "\n"
-" {} Foodlist"
+" {Foodlist}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DIET_HEADER
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DIET_HEADER"
 msgid "Creatures will eat and digest only specific materials"
-msgstr "Criatures van a menjar i digerir només materials específics"
+msgstr "Criatures menjaran i digerirant només materials específics"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DIET_PRODUCED
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DIET_PRODUCED"
 msgid ""
 "This critter will \"produce\" the following materials:\n"
 "\n"
 " {Items}"
 msgstr ""
-"Aquest critter \"produirà\" els següents materials:\n"
+"Aquesta bestiola \"produirà\" els següents materials:\n"
 "\n"
-" {} Articles"
+" {Items}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DISEASECONSUMEDPERUSE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DISEASECONSUMEDPERUSE"
 msgid "Removes<style=\"consumed\"> {0}</style>per use"
-msgstr "Elimina<style=\"consumit\"> {0}</style>per ús"
+msgstr "Elimina<style=\"consumed\"> {0}</style>per ús"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DISEASEEMITTEDPERUSE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DISEASEEMITTEDPERUSE"
 msgid "Produces<style=\"produced\"> {1}</style>of<style=\"KKeyword\"> {0}</style>per use"
-msgstr "Produeix<style=\"produeix\"> {1}</style>de<style=\"KKeyword\"> {0}</style>per ús"
+msgstr "Produeix<style=\"produced\"> {1}</style>de<style=\"KKeyword\"> {0}</style>per ús"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DOCTORING
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DOCTORING"
 msgid "Doctoring increases existing health benefits and can allow the treatment of otherwise stubborn<style=\"KKeyword\">Diseases</style>"
-msgstr "Els augments de rascat beneficis per a la salut existents i pot permetre el tractament d'una altra manera obstinada<style=\"KKeyword\">Malalties</style>"
+msgstr "La medicina augmenta els beneficis existents de salud i permet el tractament d'una altra tipus de <style=\"KKeyword\">Malalties</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST
 #, fuzzy
@@ -80047,10 +79956,9 @@ msgid "Will send a<b><style=\"logic_on\">Green Signal</style></b>if there are mo
 msgstr "Enviarà un<b><style=\"logic_on\">senyal verd</style></b>si hi ha més de<b> {0}</b><style=\"KKeyword\">Critters</style>o<style=\"KKeyword\">Ous</style>a la sala"
 
 #. STRINGS.UI.UISIDESCREENS.CRITTER_COUNT_SIDE_SCREEN.TOOLTIP_BELOW
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.CRITTER_COUNT_SIDE_SCREEN.TOOLTIP_BELOW"
 msgid "Will send a<b><style=\"logic_on\">Green Signal</style></b>if there are fewer than<b> {0}</b><style=\"KKeyword\">Critters</style>or<style=\"KKeyword\">Eggs</style>in the room"
-msgstr "Enviarà un<b><style=\"logic_on\">senyal verd</style></b>si hi ha menys de<b> {0}</b><style=\"KKeyword\">Critters</style>o<style=\"KKeyword\">Ous</style>a la sala"
+msgstr "Enviarà un<b><style=\"logic_on\">senyal verd</style></b>si hi ha menys de<b> {0}</b><style=\"KKeyword\">Bestioles</style>o<style=\"KKeyword\">Ous</style>a la sala"
 
 #. STRINGS.UI.UISIDESCREENS.CRITTER_COUNT_SIDE_SCREEN.VALUE_NAME
 #, fuzzy
@@ -80195,10 +80103,9 @@ msgid "SELECT"
 msgstr "SELECT"
 
 #. STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.TITLE
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.TITLE"
 msgid "Critter Eggs"
-msgstr "Critter ous"
+msgstr "Ous de bestiola"
 
 #. STRINGS.UI.UISIDESCREENS.ENCRYPTEDLORESIDESCREEN.AWAITINGBUTTON
 #, fuzzy
@@ -83058,10 +82965,9 @@ msgid "Element Filter"
 msgstr "Filtre element"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.TITLE_CRITTER
-#, fuzzy
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.TITLE_CRITTER"
 msgid "Critter Filter"
-msgstr "Filtre critter"
+msgstr "Filtre de bestioles"
 
 #. STRINGS.UI.UISIDESCREENS.VALVESIDESCREEN.TITLE
 #, fuzzy
