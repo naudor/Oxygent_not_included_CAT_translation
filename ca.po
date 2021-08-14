@@ -1,7 +1,7 @@
 # This file was generated from traduccio_oxygen_not_included_v2.xlsx
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-08-13 11:41+0200\n"
+"PO-Revision-Date: 2021-08-14 11:54+0200\n"
 "Language: ca\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -59500,85 +59500,76 @@ msgid "Doctoring increases existing health benefits and can allow the treatment 
 msgstr "La medicina augmenta els beneficis existents de salud i permet el tractament d'una altra tipus de <style=\"KKeyword\">Malalties</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST"
 msgid "Duplicants walk<b> {0}</b>faster on this tile"
-msgstr "Duplicants peu<b> {0}</b>més ràpid en aquesta rajola"
+msgstr "Duplicants van <b> {0}</b> més ràpid en aquesta rajola"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMED
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMED"
 msgid "Consumes<style=\"consumed\"> {1}</style>of<style=\"KKeyword\"> {0}</style>when in use"
-msgstr "Consumeix<style=\"consumit\"> {1}</style>de<style=\"KKeyword\"> {0}</style>quan està en ús"
+msgstr "Consumeix<style=\"consumed\"> {1}</style>de<style=\"KKeyword\"> {0}</style>quan està en ús"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMEDPERUSE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMEDPERUSE"
 msgid "Consumes<style=\"consumed\"> {1}</style>of<style=\"KKeyword\"> {0}</style>per use"
-msgstr "Consumeix<style=\"consumit\"> {1}</style>de<style=\"KKeyword\"> {0}</style>per ús"
+msgstr "Consumeix<style=\"consumed\"> {1}</style>de<style=\"KKeyword\"> {0}</style>per ús"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED_ENTITYTEMP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED_ENTITYTEMP"
 msgid ""
 "Produces<style=\"produced\"> {1}</style>of<style=\"KKeyword\"> {0}</style>when in use\n"
 "\n"
 "It will be the<style=\"KKeyword\">Temperature</style>of the building at the time of production"
 msgstr ""
-"Produeix<style=\"produeix\"> {1}</style>de<style=\"KKeyword\"> {0}</style>quan està en ús\n"
+"Produeix<style=\"produced\"> {1}</style>de<style=\"KKeyword\"> {0}</style>quan està en ús\n"
 "\n"
-"Serà<style=\"KKeyword\">Temperatura</style>de l'edifici en el moment de la producció"
+"La <style=\"KKeyword\">temperatura</style>  d'aquest edifici durant la producció"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED_FIXEDTEMP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED_FIXEDTEMP"
 msgid ""
 "Produces<style=\"produced\"> {1}</style>of<style=\"KKeyword\"> {0}</style>when in use\n"
 "\n"
 "It will be produced at<b> {2}</b>."
 msgstr ""
-"Produeix<style=\"produeix\"> {1}</style>de<style=\"KKeyword\"> {0}</style>quan està en ús\n"
+"Produeix<style=\"produced\"> {1}</style>de<style=\"KKeyword\"> {0}</style>quan està en ús\n"
 "\n"
-"Serà produït a<b> {2}</b>."
+"Produirà<b> {2}</b>."
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED_INPUTTEMP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED_INPUTTEMP"
 msgid ""
 "Produces<style=\"produced\"> {1}</style>of<style=\"KKeyword\"> {0}</style>when in use\n"
 "\n"
 "It will be the combined<style=\"KKeyword\">Temperature</style>of the input materials."
 msgstr ""
-"Produeix<style=\"produeix\"> {1}</style>de<style=\"KKeyword\"> {0}</style>quan està en ús\n"
+"Produeix<style=\"produced\"> {1}</style>de<style=\"KKeyword\"> {0}</style>quan està en ús\n"
 "\n"
-"Serà el<style=\"KKeyword\">combinat de la temperatura</style>dels materials d'entrada."
+"La <style=\"KKeyword\">temperatura</style> serà la combinada dels materials d'entrada."
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED_MINORENTITYTEMP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED_MINORENTITYTEMP"
 msgid ""
 "Produces<style=\"produced\"> {1}</style>of<style=\"KKeyword\"> {0}</style>when in use\n"
 "\n"
 "It will be at least<b> {2}</b>, or hotter if the building is hotter."
 msgstr ""
-"Produeix<style=\"produeix\"> {1}</style>de<style=\"KKeyword\"> {0}</style>quan està en ús\n"
+"Produeix<style=\"produced\"> {1}</style>de<style=\"KKeyword\"> {0}</style>quan està en ús\n"
 "\n"
 "Serà almenys<b> {2}</b>, o més calent si l'edifici és més calent."
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED_MINTEMP
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED_MINTEMP"
 msgid ""
 "Produces<style=\"produced\"> {1}</style>of<style=\"KKeyword\"> {0}</style>when in use\n"
 "\n"
 "It will be at least<b> {2}</b>, or hotter if the input materials are hotter."
 msgstr ""
-"Produeix<style=\"produeix\"> {1}</style>de<style=\"KKeyword\"> {0}</style>quan està en ús\n"
+"Produeix<style=\"produced\"> {1}</style>de<style=\"KKeyword\"> {0}</style>quan està en ús\n"
 "\n"
-"Serà almenys<b> {2}</b>, o més calent si els materials d'entrada són més calents."
+"Serà almenys<b> {2}</b>, o més calent si els materials d'entrada estan més calents."
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED_TOILET
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED_TOILET"
 msgid ""
 "Produces<style=\"produced\"> {1}</style>of<style=\"KKeyword\"> {0}</style>per use\n"
@@ -59587,10 +59578,9 @@ msgid ""
 msgstr ""
 "Produeix<style=\"produeix\"> {1}</style>de<style=\"KKeyword\"> {0}</style>per ús\n"
 "\n"
-"residus Duplicant s'emet a<b> {2}</b>."
+"Emet<b> {2}</b>residus de Duplicant."
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTEDPERUSE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTEDPERUSE"
 msgid ""
 "Produces<style=\"produced\"> {1}</style>of<style=\"KKeyword\"> {0}</style>per use\n"
@@ -59599,34 +59589,29 @@ msgid ""
 msgstr ""
 "Produeix<style=\"produeix\"> {1}</style>de<style=\"KKeyword\"> {0}</style>per ús\n"
 "\n"
-"Serà el<style=\"KKeyword\">Temperatura</style>dels materials d'entrada."
+"Serà la<style=\"KKeyword\">Temperatura</style>dels materials d'entrada."
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENABLESDOMESTICGROWTH
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENABLESDOMESTICGROWTH"
 msgid "Accelerates<style=\"KKeyword\">Plant</style>growth and maturation"
-msgstr "Accelera<style=\"KKeyword\">Plant</style>creixement i la maduració"
+msgstr "Accelera<style=\"KKeyword\">Plant</style>el creixement i la maduració"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYCONSUMED
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYCONSUMED"
 msgid "Draws<style=\"consumed\"> {0}</style>from the<style=\"KKeyword\">Power Grid</style>it's connected to"
-msgstr "Sortejos<style=\"consumit\"> {0}</style>de l '<style=\"KKeyword\">Xarxa d'Energia</style>que està connectat a"
+msgstr "Consumeix<style=\"consumed\"> {0}</style>de la <style=\"KKeyword\">Xarxa d'Energia</style> a la que està connectat"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYGENERATED
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYGENERATED"
 msgid "Produces<style=\"produced\"> {0}</style>for the<style=\"KKeyword\">Power Grid</style>it's connected to"
-msgstr "Produeix<style=\"produït\"> {0}</style>per al<style=\"keyword\">Grid elèctrica</style>està connectat a"
+msgstr "Produeix<style=\"produced\"> {0}</style>per a la<style=\"keyword\">Xarxa elèctrica</style> a la que està connectada"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.FABRICATES
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.FABRICATES"
 msgid "Fabrication is the production of items and equipment"
 msgstr "La fabricació és la producció d'articles i equips"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.FABRICATOR_INGREDIENTS
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.FABRICATOR_INGREDIENTS"
 msgid ""
 "Ingredients:\n"
@@ -59636,43 +59621,36 @@ msgstr ""
 " {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GASCOOLING
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GASCOOLING"
 msgid "Reduces the<style=\"KKeyword\">Temperature</style>of piped<style=\"KKeyword\">Gases</style>by<b> {0}</b>"
-msgstr "Redueix el<style=\"keyword\">temperatura</style>de canonada<style=\"keyword\">gas</style>per<b> {0}</b>"
+msgstr "Redueix la<style=\"KKeyword\">temperatura</style>de canonada<style=\"KKeyword\"> de gas</style>per<b> {0}</b>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_DISEASE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_DISEASE"
 msgid "<style=\"KKeyword\"> {0}</style>germs are present in the output of this geyser"
-msgstr "<style=\"\">KKeyword {0}</style>gèrmens són presents a la sortida d'aquest guèiser"
+msgstr "<style=\"KKeyword\">{0}</style>gèrmens són presents a la sortida d'aquest guèiser"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_PERIOD
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_PERIOD"
 msgid "This geyser will produce for<b> {0}</b>of every<b> {1}</b>"
 msgstr "Aquest guèiser produirà per<b> {0}</b>de cada<b> {1}</b>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_PRODUCTION
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_PRODUCTION"
 msgid "While erupting, this geyser will produce<style=\"KKeyword\"> {0}</style>at a rate of<style=\"produced\"> {1}</style>, and at a<style=\"KKeyword\">Temperature</style>of<b> {2}</b>"
-msgstr "Si bé en erupció, aquest guèiser produirà<style=\"KKeyword\"> {0}</style>a una velocitat de<style=\"produït\"> {1}</style>, i en un<style=\"KKeyword\">temperatura</style>de<b> {2}</b>"
+msgstr "En erupció, aquest guèiser produirà<style=\"KKeyword\"> {0}</style>a una velocitat de<style=\"produced\"> {1}</style>, i a<style=\"KKeyword\">temperatura</style>de<b> {2}</b>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_YEAR_NEXT_ACTIVE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_YEAR_NEXT_ACTIVE"
 msgid "This geyser will become active in<b> {0}</b>"
 msgstr "Aquest guèiser s'activarà en<b> {0}</b>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_YEAR_NEXT_DORMANT
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_YEAR_NEXT_DORMANT"
 msgid "This geyser will become dormant in<b> {0}</b>"
-msgstr "Aquest guèiser es convertirà en estat latent en<b> {0}</b>"
+msgstr "Aquest guèiser es quedarà latent en<b> {0}</b>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_YEAR_PERIOD
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_YEAR_PERIOD"
 msgid ""
 "This geyser will be active for<b> {0}</b>out of every<b> {1}</b>\n"
@@ -59684,13 +59662,11 @@ msgstr ""
 "Serà inactiu la resta de el temps"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_YEAR_UNSTUDIED
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GEYSER_YEAR_UNSTUDIED"
 msgid "A researcher must analyze this geyser to determine its geoactive period"
-msgstr "Un investigador ha d'analitzar aquest guèiser per determinar el seu període geoactive"
+msgstr "Un investigador ha d'analitzar aquest guèiser per determinar el seu període d'activitat"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATCONSUMED
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATCONSUMED"
 msgid ""
 "Dissipates<style=\"consumed\"> {0}</style>per second\n"
@@ -59702,23 +59678,21 @@ msgid ""
 " • insulation thickness\n"
 " • thermal conductivity"
 msgstr ""
-"Dissipa<style=\"consumit\"> {0}</style>per segon\n"
+"Dissipa<style=\"consumed\"> {0}</style>per segon\n"
 "\n"
-"Sum<style=\"KKeyword\">Temperatura</style>canvi es pot veure afectada pels atributs materials de la substància refredat:\n"
-" • massa\n"
-" • capacitat de calor específica\n"
-" • àrea de la superfície\n"
+"El canvi de <style=\"KKeyword\">Temperatura</style>es pot veure afectada pels atributs materials de la substància refredada:\n"
+" • Massa\n"
+" • Capacitat de calor específica\n"
+" • Àrea de la superfície\n"
 " • Aïllament de gruix\n"
-" • conductivitat tèrmica"
+" • Conductivitat tèrmica"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATER_TARGETTEMPERATURE
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATER_TARGETTEMPERATURE"
 msgid "Stops heating when the surrounding average<style=\"KKeyword\">Temperature</style>is above<b> {0}</b>"
-msgstr "Deixa de calefacció quan la mitjana circumdant<style=\"keyword\">temperatura</style>està per sobre<b> {0}</b>"
+msgstr "Deixa de calentar quan la <style=\"keyword\">temperatura</style> mitjana circumdant està per sobre<b> {0}</b>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED"
 msgid ""
 "Generates<style=\"produced\"> {0}</style>per second\n"
@@ -59730,24 +59704,23 @@ msgid ""
 " • insulation thickness\n"
 " • thermal conductivity"
 msgstr ""
-"Genera<style=\"produeix\"> {0}</style>per segon\n"
+"Genera<style=\"produced\"> {0}</style>per segon\n"
 "\n"
-"Sum<style=\"KKeyword\">Temperatura</style>canvi es veu afectada pels atributs de l'material de la substància escalfada:\n"
-" • massa\n"
-" • capacitat de calor específica\n"
-" • àrea de la superfície\n"
+"El canvi de <style=\"KKeyword\">Temperatura</style> es veu afectada pels atributs del material de la substància escalfada:\n"
+" • Massa\n"
+" • Capacitat de calor específica\n"
+" • Àrea de la superfície\n"
 " • Aïllament de gruix\n"
-" • conductivitat tèrmica"
+" • Conductivitat tèrmica"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_AIRCONDITIONER
-#, fuzzy
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_AIRCONDITIONER"
 msgid ""
 "Generates<style=\"KKeyword\">Heat</style>based on the<style=\"KKeyword\">Volume</style>and<style=\"KKeyword\">Specific Heat Capacity</style>of the pumped<style=\"KKeyword\">Gas</style>\n"
 "\n"
 "Cooling 1 kg of<link=\"OXYGEN\">Oxygen</link>the entire<b> {1}</b>will output<b> {0}</b>"
 msgstr ""
-"Genera<style=\"KKeyword\">Heat</style>basat en el<style=\"KKeyword\">Volum</style>i<style=\"KKeyword\">capacitat específica de calor</style>de la bombejat<style=\" KKeyword \">Gas</style>\n"
+"Genera<style=\"KKeyword\">Calor</style>basat en el<style=\"KKeyword\">Volum</style>i<style=\"KKeyword\">capacitat específica de calor</style>de la bombejat<style=\" KKeyword \">Gas</style>\n"
 "\n"
 "De refrigeració 1 kg de<link=\"oxigen\">Oxygen</link>el senceres<b> {1}</b>sortida voluntat<b> {0}</b>"
 
