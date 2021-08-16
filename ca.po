@@ -1,7 +1,7 @@
 # This file was generated from traduccio_oxygen_not_included_v2.xlsx
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-08-14 11:54+0200\n"
+"PO-Revision-Date: 2021-08-16 12:45+0200\n"
 "Language: ca\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -86351,22 +86351,19 @@ msgid ""
 msgstr "Un petit planetoide congelat amb temperatures sota zero.<Smallcaps>Duplicants que els viatges en Tundra Asteroides haurà d'utilitzar equip de protecció a causa del seu dur entorn.</ Smallcaps>"
 
 #. STRINGS.WORLDS.TUNDRAMOONLET.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.TUNDRAMOONLET.NAME"
 msgid "Tundra Asteroid"
-msgstr "Tundra asteroide"
+msgstr "Asteroide Tundra"
 
 #. STRINGS.WORLDS.TWINMOONLET.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.TWINMOONLET.DESCRIPTION"
 msgid "Two small dev worlds for the price of one."
-msgstr "Dos petits mons dev pel preu d'un."
+msgstr "Dos petits mons DEV pel preu d'un."
 
 #. STRINGS.WORLDS.TWINMOONLET.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.TWINMOONLET.NAME"
 msgid "Tiny Twin Asteroid FOR DEVS"
-msgstr "Doble petita asteroide durant DEVS"
+msgstr "Petit asteroide doble per a DEVS"
 
 #. STRINGS.WORLDS.VANILLAFORESTDEFAULT.DESCRIPTION
 msgctxt "STRINGS.WORLDS.VANILLAFORESTDEFAULT.DESCRIPTION"
@@ -86374,7 +86371,7 @@ msgid ""
 "A lush location rich in wildlife and life-sustaining resources.\n"
 "\n"
 "<smallcaps>Establishing a foothold on Verdante will be challenging due to reduced food and oxygen options. However, abundant biological and mineral resources should afford excellent long-term growth.</smallcaps>"
-msgstr "Una zona verda, rica en fauna i els recursos per mantenir la vida.<Smallcaps>L'establiment d'un punt de suport en Verdante serà un repte a causa de les reduïdes opcions de menjar i oxigen. No obstant això, l'abundància de recursos biològics i minerals hauria de permetre un excel·lent creixement a llarg termini.</ Smallcaps>"
+msgstr "Una zona verda, rica en fauna i els recursos per a mantenir la vida.<Smallcaps>L'establiment d'un punt de suport a Verdante serà un repte a causa de les reduïdes opcions de menjar i oxigen. No obstant això, l'abundància de recursos biològics i minerals hauria de permetre un excel·lent creixement a llarg termini.</ Smallcaps>"
 
 #. STRINGS.WORLDS.VANILLAFORESTDEFAULT.NAME
 #, fuzzy
@@ -86388,7 +86385,7 @@ msgid ""
 "A promising location with a balanced variety of resources.\n"
 "\n"
 "<smallcaps>Terra meets all the requirements for Duplicant life and holds no surprises. It's an ideal location for a first attempt at establishing a colony.</smallcaps>"
-msgstr "Un lloc prometedor amb una varietat equilibrada de recursos.<Smallcaps>Terra compleix amb tots els requeriments per a la vida Duplicant i no guarda sorpreses. És un lloc ideal per a un primer intent d'establir una colònia.</ Smallcaps>"
+msgstr "Un lloc prometedor amb una varietat equilibrada de recursos.<Smallcaps>Terra compleix amb tots els requisits per a la vida Duplicant i no guarda sorpreses. És un lloc ideal per a un primer intent d'establir una colònia.</ Smallcaps>"
 
 #. STRINGS.WORLDS.VANILLASANDSTONEDEFAULT.NAME
 #, fuzzy
@@ -86397,28 +86394,28 @@ msgid "Terra"
 msgstr "Terra"
 
 #. STRINGS.WORLDS.VANILLASWAMPDEFAULT.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLASWAMPDEFAULT.DESCRIPTION"
 msgid ""
 "A large, polluted swamp world.\n"
 "\n"
 "<smallcaps>Swampy Asteroids are a great mass of frozen slush and wasteland. With a short distance to the surface, inter-world travel can be achieved quickly.</smallcaps>"
-msgstr "Un món pantà contaminat gran.<Smallcaps>pantanoses asteroides són una gran massa de granissats i els terrenys erms. Amb una curta distància de la superfície, els viatges inter-món es pot aconseguir ràpidament.</ Smallcaps>"
+msgstr ""
+"Un gran món pantanós i contaminat.\n"
+"\n"
+"<smallcaps>Els asteroides pantanosos són una gran massa de terra congelada i erma. Amb una curta distància a la superfície, els viatges entre el món es poden aconseguir ràpidament.</smallcaps>"
 
 #. STRINGS.WORLDS.VANILLASWAMPDEFAULT.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VANILLASWAMPDEFAULT.NAME"
 msgid "Swampy Asteroid"
-msgstr "Pantanosa asteroide"
+msgstr "Asteroide pantanós"
 
 #. STRINGS.WORLDS.VOLCANIC.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.VOLCANIC.DESCRIPTION"
 msgid ""
 "A location rife with molten lava pockets and intense heat.\n"
 "\n"
 "<smallcaps>Volcanea would be perfect if it wasn't for the volcanoes. Digging carefully and managing the temperatures in our colony will be essential to success.</smallcaps>"
-msgstr "Una moneda corrent ubicació amb butxaques lava fosa i la calor intensa.<Smallcaps>Volcanea seria perfecte si no fos pels volcans. Excavar amb cura i maneig de les temperatures a la nostra colònia serà essencial per a l'èxit.</ Smallcaps>"
+msgstr "Una ubicació plena de bosses de lava fosa i calor intensa.<Smallcaps>Volcanea seria perfecte si no fos pels volcans. Cavar amb cura i gestionar les temperatures a la nostra colònia serà essencial per a l'èxit.</ Smallcaps>"
 
 #. STRINGS.WORLDS.VOLCANIC.NAME
 #, fuzzy
@@ -86427,28 +86424,25 @@ msgid "Volcanea"
 msgstr "Volcanea"
 
 #. STRINGS.WORLDS.WARPOILYSWAMP.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.WARPOILYSWAMP.DESCRIPTION"
 msgid ""
 "A partially frozen world with an oily core.\n"
 "\n"
 "<smallcaps>While Oily Swamp Asteroids are largely swampy, they also contain a great deal of rust.</smallcaps>"
-msgstr "Un món parcialment congelat amb un nucli oliós.<Smallcaps>Mentre oliosos Swamp asteroides són en gran part pantanosa, també contenen una gran quantitat d'òxid.</ Smallcaps>"
+msgstr "Un món parcialment congelat amb un nucli oliós.<Smallcaps>Mentre els asteroides oliosos són en gran part pantanosos, també tenen una gran quantitat d'òxid.</ Smallcaps>"
 
 #. STRINGS.WORLDS.WARPOILYSWAMP.NAME
-#, fuzzy
 msgctxt "STRINGS.WORLDS.WARPOILYSWAMP.NAME"
 msgid "Oily Swamp Asteroid"
-msgstr "Greix Swamp asteroide"
+msgstr "Asteroide de pantans oliosos"
 
 #. STRINGS.WORLDS.WATERMOONLET.DESCRIPTION
-#, fuzzy
 msgctxt "STRINGS.WORLDS.WATERMOONLET.DESCRIPTION"
 msgid ""
 "A small, water-submerged world.\n"
 "\n"
 "<smallcaps>Water Asteroids possess a variety of liquid resources and are a natural source of Graphite, but Duplicants should come prepared for a swim.</smallcaps>"
-msgstr "Un món petit, submergit en aigua.<Smallcaps>Asteroides aigua posseeixen una varietat de recursos líquids i són una font natural de grafit, però Duplicants han de venir preparats a nedar.</ Smallcaps>"
+msgstr "Un món petit, submergit en aigua.<Smallcaps>Els asteroides d'aigua tenen una varietat de recursos líquids i són una font natural de grafit, però, els Duplicants han de venir preparats per a nedar.</ Smallcaps>"
 
 #. STRINGS.WORLDS.WATERMOONLET.NAME
 msgctxt "STRINGS.WORLDS.WATERMOONLET.NAME"
